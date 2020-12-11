@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.2)  8 DEC 2020 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.2)  11 DEC 2020 18:33
 entering extended mode
 **./StefanovDimitar2.tex
 (StefanovDimitar2.tex
@@ -919,22 +919,22 @@ Package gensymb Info: Using \textmu for \micro on input line 53.
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-<./figures//plot_1.1.png, id=22, 1052.93375pt x 633.36626pt>
+<./figures//plot_1.1.png, id=23, 1052.93375pt x 633.36626pt>
 File: ./figures//plot_1.1.png Graphic file (type png)
 <use ./figures//plot_1.1.png>
 Package pdftex.def Info: ./figures//plot_1.1.png  used on input line 65.
 (pdftex.def)             Requested size: 252.0pt x 151.57611pt.
-<./figures//plot_1.2.png, id=24, 1048.91875pt x 583.17876pt>
+<./figures//plot_1.2.png, id=25, 1048.91875pt x 583.17876pt>
 File: ./figures//plot_1.2.png Graphic file (type png)
 <use ./figures//plot_1.2.png>
 Package pdftex.def Info: ./figures//plot_1.2.png  used on input line 71.
 (pdftex.def)             Requested size: 252.0pt x 140.10814pt.
-<./figures//plot_1.3.png, id=25, 1044.90375pt x 581.17125pt>
+<./figures//plot_1.3.png, id=26, 1044.90375pt x 581.17125pt>
 File: ./figures//plot_1.3.png Graphic file (type png)
 <use ./figures//plot_1.3.png>
 Package pdftex.def Info: ./figures//plot_1.3.png  used on input line 77.
 (pdftex.def)             Requested size: 252.0pt x 140.15791pt.
-<./figures//plot_2.2.png, id=26, 1077.02374pt x 1757.56625pt>
+<./figures//plot_2.2.png, id=27, 1077.02374pt x 1757.56625pt>
 File: ./figures//plot_2.2.png Graphic file (type png)
 <use ./figures//plot_2.2.png>
 Package pdftex.def Info: ./figures//plot_2.2.png  used on input line 90.
@@ -944,7 +944,7 @@ Package pdftex.def Info: ./figures//plot_2.2.png  used on input line 90.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2443) has occurred while \output is active []
 
  [1{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
@@ -1060,11 +1060,11 @@ Package rerunfilecheck Info: File `StefanovDimitar2.out' has not changed.
 Here is how much of TeX's memory you used:
  12967 strings out of 479799
  213697 string characters out of 2870198
- 574201 words of memory out of 3000000
+ 575205 words of memory out of 3000000
  29596 multiletter control sequences out of 15000+200000
  706970 words of font info for 128 fonts, out of 3000000 for 9000
  1145 hyphenation exceptions out of 8191
- 93i,6n,98p,875b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 93i,6n,98p,931b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:
 /Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:
 /Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/U
@@ -1072,9 +1072,9 @@ sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Use
 rs/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/
 User/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Use
 r/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb>
-Output written on StefanovDimitar2.pdf (2 pages, 273938 bytes).
+Output written on StefanovDimitar2.pdf (2 pages, 274282 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

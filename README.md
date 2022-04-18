@@ -1,6 +1,5 @@
 ## Image-based Biometry
 
----
 
 This repository contains solutions to the assignments in the subject Image-based Biometry. 
 
